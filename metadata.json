@@ -1,0 +1,6 @@
+{
+  "name": "WorkLog Pro",
+  "description": "Enterprise daily work logging, activity tracking, and management platform with executive RTL interface",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
